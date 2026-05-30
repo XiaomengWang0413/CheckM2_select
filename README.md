@@ -1,8 +1,9 @@
 # CheckM2_select
+##查看帮助
 ~~~
 python filter_genomes_and_copy.py -h
 ~~~
-
+##复制基因组
 ~~~
 python filter_genomes_and_copy.py \
     -i /path/to/checkm_folder/quality_report.tsv \
